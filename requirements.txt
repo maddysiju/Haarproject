@@ -1,5 +1,7 @@
 #web
 fastapi
-uvicorn
+uvicorn[standard]
 numpy
 opencv-python
+torch
+transformers
