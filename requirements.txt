@@ -1,6 +1,8 @@
 #web
+virtualenv
+python-multipart
 fastapi
-uvicorn[standard]
+uvicorn
 numpy
 opencv-python
 torch
